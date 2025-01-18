@@ -1,4 +1,5 @@
 # NAME: Direct1
+DOMAIN-SUFFIX,ir
 DOMAIN-SUFFIX,c.amin2plus.click
 DOMAIN-SUFFIX,s.amin2plus.click
 DOMAIN-SUFFIX,p.amin2plus.click
