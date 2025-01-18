@@ -1,0 +1,4 @@
+# NAME: Reject1
+IP-CIDR,10.10.34.34/29
+DOMAIN-SUFFIX,cdn.yektanet.com
+DOMAIN-SUFFIX,native-scripts.yektanet.com
