@@ -1,0 +1,10 @@
+# NAME: Direct1
+DOMAIN-SUFFIX,c.amin2plus.click
+DOMAIN-SUFFIX,s.amin2plus.click
+DOMAIN-SUFFIX,p.amin2plus.click
+DOMAIN,www.cloudflare.com
+PROCESS-NAME,com.google.android.gms.nearby
+PROCESS-NAME,com.samsung.android.app.sharelive
+PROCESS-NAME,com.microsoft.office.outlook
+PROCESS-NAME,nearby_share.exe
+PROCESS-NAME,OUTLOOK.EXE
