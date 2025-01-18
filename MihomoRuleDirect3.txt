@@ -13,7 +13,6 @@ PROCESS-NAME,nearby_share.exe
 PROCESS-NAME,OUTLOOK.EXE
 PROCESS-NAME,WeChat.exe
 PROCESS-NAME,WeChatAppEx.exe
-#WUWA
 PROCESS-NAME,Client-Win64-Shipping.exe
 IP-ASN,132203
 DOMAIN-SUFFIX,.aki-game.net
@@ -21,9 +20,7 @@ DOMAIN-SUFFIX,.aki-game2.net
 DOMAIN-SUFFIX,.listdl.com
 DOMAIN-SUFFIX,.kurogame-service.com
 DOMAIN-SUFFIX,.wetest.net
-#ENDFIELD
 PROCESS-NAME,Endfield_TBeta_OS.exe
 DOMAIN-SUFFIX,.fairguard.net
 DOMAIN-SUFFIX,.gryphline.com
-#MARVELRIVALS
 DOMAIN-SUFFIX,.easebar.com
