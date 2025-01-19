@@ -1,5 +1,10 @@
 # NAME: Direct2
 DOMAIN-SUFFIX,ir
+IP-CIDR,0.0.0.0/8
+IP-CIDR,10.0.0.0/8
+IP-CIDR,127.0.0.0/8
+IP-CIDR,192.0.0.0/24
+IP-CIDR,192.168.0.0/16
 DOMAIN,c.amin2plus.click
 DOMAIN,s.amin2plus.click
 DOMAIN,p.amin2plus.click
