@@ -12,13 +12,9 @@ DOMAIN-SUFFIX,office.com
 DOMAIN,www.cloudflare.com
 PROCESS-NAME,com.google.android.gms.nearby
 PROCESS-NAME,com.samsung.android.app.sharelive
-PROCESS-NAME,com.tencent.mm
-PROCESS-NAME,WeChat
 PROCESS-NAME,com.microsoft.office.outlook
 PROCESS-NAME,nearby_share.exe
 PROCESS-NAME,OUTLOOK.EXE
-PROCESS-NAME,WeChat.exe
-PROCESS-NAME,WeChatAppEx.exe
 PROCESS-NAME,Client-Win64-Shipping.exe
 IP-ASN,132203
 DOMAIN-SUFFIX,aki-game.net
