@@ -7,7 +7,7 @@ IP-CIDR,192.168.0.0/16
 DOMAIN,c.amin2plus.click
 DOMAIN,s.amin2plus.click
 DOMAIN,p.amin2plus.click
-DOMAIN-SUFFIX,.office.com
+DOMAIN-SUFFIX,office.com
 DOMAIN,www.cloudflare.com
 PROCESS-NAME,com.google.android.gms.nearby
 PROCESS-NAME,com.samsung.android.app.sharelive
