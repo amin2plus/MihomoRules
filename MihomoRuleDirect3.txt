@@ -1,5 +1,7 @@
 # NAME: Direct3
 DOMAIN-SUFFIX,ir
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,gstatic.com
 IP-CIDR,127.0.0.0/8
 IP-CIDR,192.0.0.0/24
 IP-CIDR,192.168.0.0/16
