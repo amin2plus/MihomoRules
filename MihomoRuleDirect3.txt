@@ -5,9 +5,9 @@ DOMAIN-SUFFIX,gstatic.com
 IP-CIDR,127.0.0.0/8
 IP-CIDR,192.0.0.0/24
 IP-CIDR,192.168.0.0/16
-DOMAIN,c.amin2plus.click
-DOMAIN,s.amin2plus.click
-DOMAIN,p.amin2plus.click
+DOMAIN,c.amin2plus.site
+DOMAIN,s.amin2plus.site
+DOMAIN,p.amin2plus.site
 DOMAIN-SUFFIX,office.com
 DOMAIN,www.cloudflare.com
 PROCESS-NAME,com.google.android.gms.nearby
