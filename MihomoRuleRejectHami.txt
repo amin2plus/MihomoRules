@@ -5,3 +5,4 @@
 DOMAIN-SUFFIX,cdn.yektanet.com
 DOMAIN-SUFFIX,native-scripts.yektanet.com
 DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
