@@ -1,15 +1,11 @@
 # NAME: Direct1
 GEOIP,private,no-resolve,
 DOMAIN-SUFFIX,ir
-DOMAIN-SUFFIX,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,gstatic.com
 #IP-CIDR,10.0.0.0/8
 IP-CIDR,127.0.0.0/8
 IP-CIDR,192.0.0.0/24
 IP-CIDR,192.168.0.0/16
-DOMAIN,c.amin2plus.site
-DOMAIN,s.amin2plus.site
-DOMAIN,p.amin2plus.site
+DOMAIN,amin2plus.site
 DOMAIN-SUFFIX,office.com
 DOMAIN,www.cloudflare.com
 PROCESS-NAME,com.google.android.gms.nearby
