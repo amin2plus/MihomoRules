@@ -1,4 +1,5 @@
 # NAME: Direct1
+GEOIP,private,no-resolve
 DOMAIN-SUFFIX,ir
 RULE-SET,apps
 RULE-SET,iran_other
