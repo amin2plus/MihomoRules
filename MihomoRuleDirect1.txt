@@ -1,4 +1,5 @@
 # NAME: Direct1
+GEOIP,private,no-resolve,
 DOMAIN-SUFFIX,ir
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,gstatic.com
