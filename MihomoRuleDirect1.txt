@@ -1,9 +1,8 @@
 # NAME: Direct1
-GEOIP,private,no-resolve,
 DOMAIN-SUFFIX,ir
-RULE-SET,apps,
-RULE-SET,iran_other,
-RULE-SET,ircidr,
+RULE-SET,apps
+RULE-SET,iran_other
+RULE-SET,ircidr
 DOMAIN,amin2plus.site
 DOMAIN-SUFFIX,office.com
 DOMAIN,www.cloudflare.com
