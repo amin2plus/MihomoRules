@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,ir
 #DOMAIN,amin2plus.site
 DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,amesterida.com
 DOMAIN,www.cloudflare.com
 PROCESS-NAME,com.google.android.gms.nearby
 PROCESS-NAME,com.samsung.android.app.sharelive
