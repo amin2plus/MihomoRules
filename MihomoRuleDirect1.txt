@@ -1,5 +1,6 @@
 # NAME: Direct1
 DOMAIN-SUFFIX,ir
+DOMAIN-SUFFIX,.ir
 DOMAIN,amin2plus.site
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,amesterida.com
