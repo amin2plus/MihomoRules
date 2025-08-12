@@ -15,5 +15,3 @@ PROCESS-NAME,com.samsung.android.app.sharelive
 PROCESS-NAME,com.microsoft.office.outlook
 PROCESS-NAME,nearby_share.exe
 PROCESS-NAME,OUTLOOK.EXE
-
-
