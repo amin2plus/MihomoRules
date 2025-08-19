@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,gstatic.com
 IP-CIDR,127.0.0.0/8
 IP-CIDR,192.0.0.0/24
 IP-CIDR,192.168.0.0/16
+DST-PORT,53
+DST-PORT,853
 DOMAIN,c.amin2plus.site
 DOMAIN,s.amin2plus.site
 DOMAIN,p.amin2plus.site
