@@ -5,7 +5,8 @@ IP-CIDR,127.0.0.0/8
 IP-CIDR,192.0.0.0/24
 IP-CIDR,192.168.0.0/16
 IP-CIDR,94.140.0.0/16
-#DST-PORT,53
+DST-PORT,53
+DST-PORT,853
 DOMAIN,amin2plus.site
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,amesterida.com
@@ -15,3 +16,4 @@ PROCESS-NAME,com.samsung.android.app.sharelive
 PROCESS-NAME,com.microsoft.office.outlook
 PROCESS-NAME,nearby_share.exe
 PROCESS-NAME,OUTLOOK.EXE
+
